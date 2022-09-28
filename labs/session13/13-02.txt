@@ -1,8 +1,0 @@
-The reason the fourier transforms frequencies spread out is because according to the Heisenberg Uncertainty principle
-once we know more about the particle location the particles frequency will be more ambigous or less certain as to what it is.
-The reason the particle location spreads out infintely is because we only have one 1 frequency which means we exactly know the momentum
-theoretically if we are certain of the frequency the location of the particl could be anywhere. I find it hard to believe
-that if we know the momentum of a particle that is could be anywhere in the universe. Many things in physics usually
-defy my own intuition especially in quantum. However the universe is so large and a particle is so small that I find it
-rather crazy to think that it could be anywhere. I also do not hahve the best understanding of the heisenbergs uncertainty principle, but 
-i'm sure if my understanding was better it would be easier to believe 

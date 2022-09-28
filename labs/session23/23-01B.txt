@@ -1,5 +1,0 @@
-After 10,000 shots there is a 100% chance of measuring only a value of 0 for the classical bit
-because state vector 4's amplitudes are non-zero for states 1 and 4. These states have binary
-representation 001 and 100 or ket representation |001> and |100>. These states both contain qubit 1
-(q1) with a logical 0. Therfore, since there is no probability that any state with q1 being a logical 1
-the measured value will always collapse to 0 when measured.
