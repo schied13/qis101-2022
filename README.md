@@ -1,4 +1,4 @@
-# 2022 Brookhaven National Laboratory Co-Design Center for Quantum Advantage(C2QA) Quantum Computing Summer School Tasks
+# 2022 Brookhaven National Laboratory Co-Design Center for Quantum Advantage(C2QA) Quantum Computing Summer School
 
 This repository is a culmination of the different programming and non-programming tasks that were completed
 for the 2022 C2QA Quantum Computing Summer School
@@ -24,29 +24,10 @@ Year of undergraduate studies.
 - Linear Algebra 
   
 ## Authors
+Johnathan Schiede
 
-[Johnathan Schiede](johnathan.schiede@gmail.com)
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+[Email](johnathan.schiede@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/johnathan-schiede)
 
 ## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+I would like to thank BNL, C2QA, and Dave Biersach for the opportunity to be a part of this program
