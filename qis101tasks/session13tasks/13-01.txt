@@ -1,0 +1,11 @@
+The power spectrum has an infinte number of frequencies becuase the sampled wave
+is a square wave. This is known because the amplitude goes from 0 to 1 immediatelty at pi-.5 and 
+vice versa from 1 to 0 at pi+.5
+ In order to achieve this there must be
+an infinite number of frequencies on the power spectrum.
+The magnitude of the DC component of the DFT is zero becuase if we inspec the
+formula for the DC component it involves the summation of terms multiplied by 1/n
+since we just proved that the number of frequencies or samples is infinite
+we can prove that the offset is equal to zero by taking the limit as n the 
+number of frequencies approavhes zero. thus yielding zero. Lastly, there are 
+no sine components because the array returned by numpy real FFT returns no imaginary part of the complex array
